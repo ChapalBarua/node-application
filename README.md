@@ -1,7 +1,3 @@
-#Creating a Simple RESTful Web App with Node.js, Express, and MongoDB
-
-A complete sample project for Front-End developers teaching the basics of REST and using them to build an easy, fast, single-page web app.
-
 ## Quickstart
 
 [Visit the tutorial online](http://cwbuecheler.com/web/tutorials/2014/restful-web-app-node-express-mongodb/), follow along with it, write your own code, compare it to this working sample code.
